@@ -1,0 +1,98 @@
+{
+  "cars": [
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40069.jpg",
+      "name": "adad",
+      "description": "adad",
+      "date": 1422153200637,
+      "id": 1
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40068.jpg",
+      "name": "Ggggg",
+      "description": "gggg",
+      "date": 1421153200637,
+      "id": 2
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40067.jpg",
+      "name": "hjfg",
+      "description": "ugjho;",
+      "date": 1426153200637,
+      "id": 3
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40057.jpg",
+      "name": "Ferrari",
+      "id": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": 1428153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40069.jpg",
+      "name": "Reno-megan",
+      "id": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": 1422153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40064.jpg",
+      "name": "Mersedes",
+      "id": 6,
+      "params": {
+        "status": true,
+        "progress": "83"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": 1442153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40063.jpg",
+      "name": "Skoda",
+      "id": 7,
+      "params": {
+        "status": true,
+        "progress": "49"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": 1482153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40062.jpg",
+      "name": "Ford",
+      "id": 8,
+      "params": {
+        "status": true,
+        "progress": "14"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": 1442153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40059.jpg",
+      "name": "Toyota",
+      "id": 9,
+      "params": {
+        "status": true,
+        "progress": "20"
+      },
+      "description": "Lorem ipsum dolor sit amet",
+      "date": 1322153200637
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40058.jpg",
+      "name": "Renault",
+      "id": 10,
+      "params": {
+        "status": true,
+        "progress": "40"
+      },
+      "description": "Lorem ipsum dolor sit amet",
+      "date": 1322159200637
+    }
+  ],
+  "user": {
+    "login": "admin.@mail.com",
+    "password": "12345678"
+  }
+}
